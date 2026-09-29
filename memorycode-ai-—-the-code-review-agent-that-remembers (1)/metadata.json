@@ -1,0 +1,8 @@
+{
+  "name": "MemoryCode AI — The Code Review Agent That Remembers",
+  "description": "AI-powered code review agent with persistent team memory using Hindsight memory, learning from every developer decision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
